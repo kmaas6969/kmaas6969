@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 
 <!---
-kmaas6969/kmaas6969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kmaas6969/kmaas6969 is a ✨ spec
+
+ial ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
